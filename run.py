@@ -1,4 +1,4 @@
-#!/anaconda3/envs/insight/bin/python
+# !/anaconda3/envs/insight/bin/python
 from flaskapp import app
 
 if __name__=="__main__":
